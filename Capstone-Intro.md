@@ -10,8 +10,8 @@ After fetching the venue details, again Foursquare API will be used to fetch the
 
 ### Summarizing the Data Used:
 ## 1. Latitudes and Longitudes from geolocator
-## 2. Search Query Data (json) from Foursquare
-## 3. Data Of Every Venue nearby (json) from Fousquare
+## 2. Search Query Data like Restaurant Name, Address, Latitude, Longitude etc. (json) from Foursquare
+## 3. Data Of Every Venue nearby like Restaurant Category, Ratings, Reviews, Tips etc. (json) from Fousquare
 ## 4. Data Wrangling and taking required Data
 
 
