@@ -8,3 +8,10 @@ Here, we’ll get venues that are fit for the location specified based on the da
 The data has been collected from Foursquare API. The first step will be to search for venues with given Query, Location and within a radius specified by the User from his given location. After extracting the venues using the Foursquare API, the latitude and longitude values will be used to fetch the venue details using Foursquare API.
 After fetching the venue details, again Foursquare API will be used to fetch the details of all the venues and then add the relevant information and process the Data to get the Best and Top 6 Restaurants nearby.
 
+### Summarizing the Data Used:
+## 1. Latitudes and Longitudes from geolocator
+## 2. Search Query Data (json) from Foursquare
+## 3. Data Of Every Venue nearby (json) from Fousquare
+## 4. Data Wrangling and taking required Data
+
+
